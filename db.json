@@ -1,7 +1,7 @@
 {
     "banner_area": [
         {
-            "title": "バナーテスト1",
+            "title": "固定バナー1枚縦積み",
             "banner_pattern": 1,
             "banners": [
                 {
@@ -27,7 +27,7 @@
             ]
         },
         {
-            "title": "バナーテスト2",
+            "title": "固定バナー2枚縦積み",
             "banner_pattern": 2,
             "banners": [
                 {
@@ -52,57 +52,57 @@
                 }
             ]
         },
-        {
-            "title": "バナーテスト3",
-            "banner_pattern": 3,
-            "banners": [
-                {
-                    "name": "バナーA",
-                    "image_url": "https://raw.githubusercontent.com/shinnaga-icd/dummy_assets/main/image/bannerA.png",
-                    "link_url": "https://infcurion.com/"
-                },
-                {
-                    "name": "バナーB",
-                    "image_url": "https://raw.githubusercontent.com/shinnaga-icd/dummy_assets/main/image/bannerB.png",
-                    "link_url": "https://infcurion.com/"
-                },
-                {
-                    "name": "バナーC",
-                    "image_url": "https://raw.githubusercontent.com/shinnaga-icd/dummy_assets/main/image/bannerC.png",
-                    "link_url": "https://infcurion.com/"
-                },
-                {
-                    "name": "バナーD",
-                    "image_url": "https://raw.githubusercontent.com/shinnaga-icd/dummy_assets/main/image/bannerD.png",
-                    "link_url": "https://infcurion.com/"
-                }
-            ]
-        },
-        {
-            "title": "バナーテスト4",
-            "banner_pattern": 4,
-            "banners": [
-                {
-                    "name": "バナーA",
-                    "image_url": "https://raw.githubusercontent.com/shinnaga-icd/dummy_assets/main/image/bannerA.png",
-                    "link_url": "https://infcurion.com/"
-                },
-                {
-                    "name": "バナーB",
-                    "image_url": "https://raw.githubusercontent.com/shinnaga-icd/dummy_assets/main/image/bannerB.png",
-                    "link_url": "https://infcurion.com/"
-                },
-                {
-                    "name": "バナーC",
-                    "image_url": "https://raw.githubusercontent.com/shinnaga-icd/dummy_assets/main/image/bannerC.png",
-                    "link_url": "https://infcurion.com/"
-                },
-                {
-                    "name": "バナーD",
-                    "image_url": "https://raw.githubusercontent.com/shinnaga-icd/dummy_assets/main/image/bannerD.png",
-                    "link_url": "https://infcurion.com/"
-                }
-            ]
-        }
+        // {
+        //     "title": "スライダー小",
+        //     "banner_pattern": 3,
+        //     "banners": [
+        //         {
+        //             "name": "バナーA",
+        //             "image_url": "https://raw.githubusercontent.com/shinnaga-icd/dummy_assets/main/image/bannerA.png",
+        //             "link_url": "https://infcurion.com/"
+        //         },
+        //         {
+        //             "name": "バナーB",
+        //             "image_url": "https://raw.githubusercontent.com/shinnaga-icd/dummy_assets/main/image/bannerB.png",
+        //             "link_url": "https://infcurion.com/"
+        //         },
+        //         {
+        //             "name": "バナーC",
+        //             "image_url": "https://raw.githubusercontent.com/shinnaga-icd/dummy_assets/main/image/bannerC.png",
+        //             "link_url": "https://infcurion.com/"
+        //         },
+        //         {
+        //             "name": "バナーD",
+        //             "image_url": "https://raw.githubusercontent.com/shinnaga-icd/dummy_assets/main/image/bannerD.png",
+        //             "link_url": "https://infcurion.com/"
+        //         }
+        //     ]
+        // },
+        // {
+        //     "title": "スライダー大",
+        //     "banner_pattern": 4,
+        //     "banners": [
+        //         {
+        //             "name": "バナーA",
+        //             "image_url": "https://raw.githubusercontent.com/shinnaga-icd/dummy_assets/main/image/bannerA.png",
+        //             "link_url": "https://infcurion.com/"
+        //         },
+        //         {
+        //             "name": "バナーB",
+        //             "image_url": "https://raw.githubusercontent.com/shinnaga-icd/dummy_assets/main/image/bannerB.png",
+        //             "link_url": "https://infcurion.com/"
+        //         },
+        //         {
+        //             "name": "バナーC",
+        //             "image_url": "https://raw.githubusercontent.com/shinnaga-icd/dummy_assets/main/image/bannerC.png",
+        //             "link_url": "https://infcurion.com/"
+        //         },
+        //         {
+        //             "name": "バナーD",
+        //             "image_url": "https://raw.githubusercontent.com/shinnaga-icd/dummy_assets/main/image/bannerD.png",
+        //             "link_url": "https://infcurion.com/"
+        //         }
+        //     ]
+        // }
     ]
 }
