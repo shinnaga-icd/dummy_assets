@@ -1,1 +1,78 @@
-{"banner_area":[{"title":"おすすめ情報","banner_pattern":1, "banners":[{"name":"バナー1","image_url":"https:// example.com/banner/image/banner1.png","link_url":"https://example.com/osusume.html"},{"name":"バナー2","image_url":"https://example.com/banner/image/banner2.png", "link_url":"https://example.com/osusume2.html"}]},{"title":"＊＊＊","banner_pattern":3, "banners":[{"name":"スライドバナー1","image_url":"https://example.com/banner/image/slide1.png","link_url":"https://example.com/slide.html"},{"name":"スライドバナー2","image_url":"https://example.com/banner/image/slide2.png", "link_url":"https://example.com/slide2.html"}]}]}
+{
+    "banner_area": [
+        {
+            "title": "おすすめ情報",
+            "banner_pattern": 1,
+            "banners": [
+                {
+                    "name": "バナー1",
+                    "image_url": "https://raw.githubusercontent.com/shinnaga-icd/dummy_assets/main/image/bannerA.png",
+                    "link_url": "https://xxxx.co.jp/osusume.html"
+                },
+                {
+                    "name": "バナー2",
+                    "image_url": "https://raw.githubusercontent.com/shinnaga-icd/dummy_assets/main/image/bannerA.png",
+                    "link_url": "https://xxxx.co.jp/osusume2.html"
+                }
+            ]
+        },
+        {
+            "title": "固定バナー2枚縦積み",
+            "banner_pattern": 2,
+            "banners": [
+                {
+                    "name": "バナー3",
+                    "image_url": "https://raw.githubusercontent.com/shinnaga-icd/dummy_assets/main/image/bannerA.png",
+                    "link_url": "https://xxxx.co.jp/slide.html"
+                },
+                {
+                    "name": "バナー4",
+                    "image_url": "https://raw.githubusercontent.com/shinnaga-icd/dummy_assets/main/image/bannerA.png",
+                    "link_url": "https://xxxx.co.jp/slide.html"
+                },
+                {
+                    "name": "バナー5",
+                    "image_url": "https://raw.githubusercontent.com/shinnaga-icd/dummy_assets/main/image/bannerA.png",
+                    "link_url": "https://xxxx.co.jp/slide.html"
+                }
+            ]
+        },
+        {
+            "title": "スライドバナー小",
+            "banner_pattern": 3,
+            "banners": [
+                {
+                    "name": "スライドバナー1",
+                    "image_url": "https://raw.githubusercontent.com/shinnaga-icd/dummy_assets/main/image/bannerA.png",
+                    "link_url": "https://xxxx.co.jp/slide.html"
+                },
+                {
+                    "name": "スライドバナー2",
+                    "image_url": "https://raw.githubusercontent.com/shinnaga-icd/dummy_assets/main/image/bannerA.png",
+                    "link_url": "https://xxxx.co.jp/slide2.html"
+                },
+                {
+                    "name": "スライドバナー3",
+                    "image_url": "https://raw.githubusercontent.com/shinnaga-icd/dummy_assets/main/image/bannerA.png",
+                    "link_url": "https://xxxx.co.jp/slide3.html"
+                }
+            ]
+        },
+        {
+            "title": "スライドバナー大",
+            "banner_pattern": 4,
+            "banners": [
+                {
+                    "name": "スライドバナー4",
+                    "image_url": "https://raw.githubusercontent.com/shinnaga-icd/dummy_assets/main/image/bannerA.png",
+                    "link_url": "https://xxxx.co.jp/slide.html"
+                },
+                {
+                    "name": "スライドバナー5",
+                    "image_url": "https://raw.githubusercontent.com/shinnaga-icd/dummy_assets/main/image/bannerA.png",
+                    "link_url": "https://xxxx.co.jp/slide2.html"
+                }
+            ]
+        }
+    ]
+}
