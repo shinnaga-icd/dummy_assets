@@ -1,11 +1,1 @@
-{
-    "header": {
-        "title": "ダミーのお知らせ",
-        "date": "2024/01/16"
-    },
-    "body": {
-        "html_string": "<!DOCTYPE html><html><head><meta charset=\"UTF-8\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\"><meta name=\"robots\" content=\"noindex\"><title>Sample</title></head><body>  <div class=\"container\">    <section>   <p>このお知らせはダミーです。</br>繰り返します。このお知らせはダミーです。</p> </section>  </div></body></html>",
-        "start_date": "2024/01/16 10:00:00",
-        "end_date": "2024/01/31 10:00:00"
-    }
-}
+{ "header": { "title": "ダミーのお知らせ", "date": "2024/01/16" }, "body": { "html_string": "<!DOCTYPE html><html><head><meta charset=\"UTF-8\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\"><meta name=\"robots\" content=\"noindex\"><title>Sample</title></head><body>  <div class=\"container\">    <section>   <p>このお知らせはダミーです。</br>繰り返します。このお知らせはダミーです。</p> </section>  </div></body></html>", "start_date": "2024/01/16 10:00:00", "end_date": "2024/01/31 10:00:00" }}
