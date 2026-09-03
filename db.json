@@ -1,108 +1,121 @@
 {
-    "banner_area": [
-        {
-            "title": "固定バナー1枚縦積み",
-            "banner_pattern": 1,
-            "banners": [
-                {
-                    "name": "バナーA",
-                    "image_url": "https://raw.githubusercontent.com/shinnaga-icd/dummy_assets/main/image/bannerA.png",
-                    "link_url": "https://infcurion.com/"
-                },
-                {
-                    "name": "バナーB",
-                    "image_url": "https://raw.githubusercontent.com/shinnaga-icd/dummy_assets/main/image/bannerB.png",
-                    "link_url": "https://infcurion.com/"
-                },
-                {
-                    "name": "バナーC",
-                    "image_url": "https://raw.githubusercontent.com/shinnaga-icd/dummy_assets/main/image/bannerC.png",
-                    "link_url": "https://infcurion.com/"
-                },
-                {
-                    "name": "バナーD",
-                    "image_url": "https://raw.githubusercontent.com/shinnaga-icd/dummy_assets/main/image/bannerD.png",
-                    "link_url": "https://infcurion.com/"
-                }
-            ]
+    "bannar": {
+        "banner_area": [
+            {
+                "title": "固定バナー1枚縦積み",
+                "banner_pattern": 1,
+                "banners": [
+                    {
+                        "name": "バナーA",
+                        "image_url": "https://raw.githubusercontent.com/shinnaga-icd/dummy_assets/main/image/bannerA.png",
+                        "link_url": "https://infcurion.com/"
+                    },
+                    {
+                        "name": "バナーB",
+                        "image_url": "https://raw.githubusercontent.com/shinnaga-icd/dummy_assets/main/image/bannerB.png",
+                        "link_url": "https://infcurion.com/"
+                    },
+                    {
+                        "name": "バナーC",
+                        "image_url": "https://raw.githubusercontent.com/shinnaga-icd/dummy_assets/main/image/bannerC.png",
+                        "link_url": "https://infcurion.com/"
+                    },
+                    {
+                        "name": "バナーD",
+                        "image_url": "https://raw.githubusercontent.com/shinnaga-icd/dummy_assets/main/image/bannerD.png",
+                        "link_url": "https://infcurion.com/"
+                    }
+                ]
+            },
+            {
+                "title": "固定バナー2枚縦積み",
+                "banner_pattern": 2,
+                "banners": [
+                    {
+                        "name": "バナーA",
+                        "image_url": "https://raw.githubusercontent.com/shinnaga-icd/dummy_assets/main/image/bannerA.png",
+                        "link_url": "https://infcurion.com/"
+                    },
+                    {
+                        "name": "バナーB",
+                        "image_url": "https://raw.githubusercontent.com/shinnaga-icd/dummy_assets/main/image/bannerB.png",
+                        "link_url": "https://infcurion.com/"
+                    },
+                    {
+                        "name": "バナーC",
+                        "image_url": "https://raw.githubusercontent.com/shinnaga-icd/dummy_assets/main/image/bannerC.png",
+                        "link_url": "https://infcurion.com/"
+                    },
+                    {
+                        "name": "バナーD",
+                        "image_url": "https://raw.githubusercontent.com/shinnaga-icd/dummy_assets/main/image/bannerD.png",
+                        "link_url": "https://infcurion.com/"
+                    }
+                ]
+            },
+            {
+                "title": "スライダー小",
+                "banner_pattern": 3,
+                "banners": [
+                    {
+                        "name": "バナーA",
+                        "image_url": "https://raw.githubusercontent.com/shinnaga-icd/dummy_assets/main/image/bannerA.png",
+                        "link_url": "https://infcurion.com/"
+                    },
+                    {
+                        "name": "バナーB",
+                        "image_url": "https://raw.githubusercontent.com/shinnaga-icd/dummy_assets/main/image/bannerB.png",
+                        "link_url": "https://infcurion.com/"
+                    },
+                    {
+                        "name": "バナーC",
+                        "image_url": "https://raw.githubusercontent.com/shinnaga-icd/dummy_assets/main/image/bannerC.png",
+                        "link_url": "https://infcurion.com/"
+                    },
+                    {
+                        "name": "バナーD",
+                        "image_url": "https://raw.githubusercontent.com/shinnaga-icd/dummy_assets/main/image/bannerD.png",
+                        "link_url": "https://infcurion.com/"
+                    }
+                ]
+            },
+            {
+                "title": "スライダー大",
+                "banner_pattern": 4,
+                "banners": [
+                    {
+                        "name": "バナーA",
+                        "image_url": "https://raw.githubusercontent.com/shinnaga-icd/dummy_assets/main/image/bannerA.png",
+                        "link_url": "https://infcurion.com/"
+                    },
+                    {
+                        "name": "バナーB",
+                        "image_url": "https://raw.githubusercontent.com/shinnaga-icd/dummy_assets/main/image/bannerB.png",
+                        "link_url": "https://infcurion.com/"
+                    },
+                    {
+                        "name": "バナーC",
+                        "image_url": "https://raw.githubusercontent.com/shinnaga-icd/dummy_assets/main/image/bannerC.png",
+                        "link_url": "https://infcurion.com/"
+                    },
+                    {
+                        "name": "バナーD",
+                        "image_url": "https://raw.githubusercontent.com/shinnaga-icd/dummy_assets/main/image/bannerD.png",
+                        "link_url": "https://infcurion.com/"
+                    }
+                ]
+            }
+        ]
+    },
+    "news": {
+        "header": {
+            "title": "ダミーのお知らせ",
+            "date": "2024/01/16"
         },
-        {
-            "title": "固定バナー2枚縦積み",
-            "banner_pattern": 2,
-            "banners": [
-                {
-                    "name": "バナーA",
-                    "image_url": "https://raw.githubusercontent.com/shinnaga-icd/dummy_assets/main/image/bannerA.png",
-                    "link_url": "https://infcurion.com/"
-                },
-                {
-                    "name": "バナーB",
-                    "image_url": "https://raw.githubusercontent.com/shinnaga-icd/dummy_assets/main/image/bannerB.png",
-                    "link_url": "https://infcurion.com/"
-                },
-                {
-                    "name": "バナーC",
-                    "image_url": "https://raw.githubusercontent.com/shinnaga-icd/dummy_assets/main/image/bannerC.png",
-                    "link_url": "https://infcurion.com/"
-                },
-                {
-                    "name": "バナーD",
-                    "image_url": "https://raw.githubusercontent.com/shinnaga-icd/dummy_assets/main/image/bannerD.png",
-                    "link_url": "https://infcurion.com/"
-                }
-            ]
-        },
-        {
-            "title": "スライダー小",
-            "banner_pattern": 3,
-            "banners": [
-                {
-                    "name": "バナーA",
-                    "image_url": "https://raw.githubusercontent.com/shinnaga-icd/dummy_assets/main/image/bannerA.png",
-                    "link_url": "https://infcurion.com/"
-                },
-                {
-                    "name": "バナーB",
-                    "image_url": "https://raw.githubusercontent.com/shinnaga-icd/dummy_assets/main/image/bannerB.png",
-                    "link_url": "https://infcurion.com/"
-                },
-                {
-                    "name": "バナーC",
-                    "image_url": "https://raw.githubusercontent.com/shinnaga-icd/dummy_assets/main/image/bannerC.png",
-                    "link_url": "https://infcurion.com/"
-                },
-                {
-                    "name": "バナーD",
-                    "image_url": "https://raw.githubusercontent.com/shinnaga-icd/dummy_assets/main/image/bannerD.png",
-                    "link_url": "https://infcurion.com/"
-                }
-            ]
-        },
-        {
-            "title": "スライダー大",
-            "banner_pattern": 4,
-            "banners": [
-                {
-                    "name": "バナーA",
-                    "image_url": "https://raw.githubusercontent.com/shinnaga-icd/dummy_assets/main/image/bannerA.png",
-                    "link_url": "https://infcurion.com/"
-                },
-                {
-                    "name": "バナーB",
-                    "image_url": "https://raw.githubusercontent.com/shinnaga-icd/dummy_assets/main/image/bannerB.png",
-                    "link_url": "https://infcurion.com/"
-                },
-                {
-                    "name": "バナーC",
-                    "image_url": "https://raw.githubusercontent.com/shinnaga-icd/dummy_assets/main/image/bannerC.png",
-                    "link_url": "https://infcurion.com/"
-                },
-                {
-                    "name": "バナーD",
-                    "image_url": "https://raw.githubusercontent.com/shinnaga-icd/dummy_assets/main/image/bannerD.png",
-                    "link_url": "https://infcurion.com/"
-                }
-            ]
+        "body": {
+            "html_string": "<!DOCTYPE html><html><head><meta charset=\"UTF-8\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\"><meta name=\"robots\" content=\"noindex\"><title>Sample</title></head><body>  <div class=\"container\">    <section>   <p>このお知らせはダミーです。</br>繰り返します。このお知らせはダミーです。</p> </section>  </div></body></html>",
+            "start_date": "2024/01/16 10:00:00",
+            "end_date": "2024/01/31 10:00:00"
         }
-    ]
+    }
 }
